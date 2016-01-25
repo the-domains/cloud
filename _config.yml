@@ -2,6 +2,7 @@ name: Cloud
 favicon: null
 layout_spectrum: 0.8690830960404128
 typography_spectrum: 0.9024848171975464
+title: Cloud World
 cta:
   domain: null
   bucket: null
